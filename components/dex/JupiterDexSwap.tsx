@@ -14,7 +14,7 @@ import { toast } from 'sonner';
 import { motion, AnimatePresence } from 'framer-motion';
 
 // Define constant values used throughout the component
-const JUPITER_API = 'https://quote-api.jup.ag/v6'; // Jupiter API endpoint
+const JUPITER_API = 'https://lite-api.jup.ag'; // Jupiter API endpoint
 const TOKEN_LIST_URL = 'https://token.jup.ag/strict'; // URL to fetch token list
 const QUOTE_REFRESH_SECONDS = 15; // How often to refresh the swap quote
 const MAX_RECENT_TRANSACTIONS = 5; // Maximum number of recent transactions to show
