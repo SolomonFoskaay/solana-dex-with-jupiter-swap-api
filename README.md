@@ -1,6 +1,6 @@
 # Solana DEX With Jupiter Swap API
 
-![Demo Image of Solana DEX With Jupiter Swap API](https://res.cloudinary.com/difhad1rl/image/upload/v1746865706/Screenshot_from_2025-05-10_08-22-13_syn6ve.png)
+![Demo Image of Solana DEX With Jupiter Swap API](https://res.cloudinary.com/difhad1rl/image/upload/v1746866131/Screenshot_from_2025-05-10_08-35-17_csxtim.png)
 
 DEMO: [https://solana-dex-with-jupiter-swap-api.vercel.app/](https://solana-dex-with-jupiter-swap-api.vercel.app/)
 
