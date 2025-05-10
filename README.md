@@ -1,5 +1,9 @@
 # Solana DEX With Jupiter Swap API
 
+![Demo Image of Solana DEX With Jupiter Swap API](https://res.cloudinary.com/difhad1rl/image/upload/v1746865706/Screenshot_from_2025-05-10_08-22-13_syn6ve.png)
+
+DEMO: [https://solana-dex-with-jupiter-swap-api.vercel.app/](https://solana-dex-with-jupiter-swap-api.vercel.app/)
+
 ## Overview
 
 This is a Solana Decentralized Exchange (DEX) powered by Jupiter Swap API built by [Solomon Foskaay](https://github.com/SolomonFoskaay).
